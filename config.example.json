@@ -1,0 +1,23 @@
+{
+    "TOKEN": "your-discord-bot-token-here",
+    "PREFIX": "!",
+  
+    "CHANNEL_ID": "your-channel-id-here", 
+    "DM_ENABLED": true,
+  
+    "TICKET_CATEGORIES": {
+      "support": "Support",
+      "bug_report": "Bug Report",
+      "suggestion": "Suggestions"
+    },
+  
+    "MOD_ROLE": "Moderator", 
+    "ADMIN_ROLE": "Admin",
+  
+    "LOGGING_ENABLED": false, 
+    "LOG_CHANNEL_ID": "your-log-channel-id-here", 
+  
+    "TICKET_TIMEOUT": 86400, 
+    "CLOSE_MESSAGE": "This ticket has been closed. If you need further assistance, please create a new ticket."
+  }
+  
