@@ -24,7 +24,7 @@ To download the ModMail bot repository, you can either clone it using Git or dow
 If you're using Git:
 
 Clone the repository with the following command:
-git clone https://github.com/your-repo/modmail.git
+git clone https://github.com/ALAQSystems/ALAQMail.git
 Navigate into the project directory:
 cd modmail
 Alternatively, you can download the ZIP file from the ModMail GitHub repository page and extract it to a folder on your system.
